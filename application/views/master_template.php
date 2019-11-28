@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title><?php echo $page_title; ?> | GSM Workshop Plus</title>
+<title><?php echo $page_title; ?> | Mobile Repair</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -30,8 +30,8 @@
     <div class="container">
       <div class="row"> 
         <!--Logo-->
-        <aside class="logo pull-left"><img src="<?php echo base_url(); ?>assets/images/logo.png" alt="GSM Workshop Plus" height="85" ></aside>
-        <div class="usrOpt no-pad col-md-6 pull-right">
+        <aside class="logo pull-left" href="#" title="Mobile Repair Management"><a href="#"><img src="<?php echo base_url(); ?>assets/images/logo.png" alt="GSM Workshop Plus" height="85" ></aside>
+		<div class="usrOpt no-pad col-md-6 pull-right"></a>
         <?php if( $this->session->userdata('is_logged_in') ===  TRUE ): ?>
           <!-- Status Bar [Start] -->
           <div class="statusBar"> <span class="pull-left">Welcome <?php echo $this->session->name; ?></span>
