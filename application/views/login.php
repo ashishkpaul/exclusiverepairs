@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Login | GSM Workshop Plus</title>
+<title>Login | Mobile Repair Management</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -26,7 +26,7 @@
 		<div class="container">
 			<div class="row">
 				<aside class="logo pull-left">
-                	<img src="<?/*php echo base_url(); */?>assets/images/logo.png" alt="GSM Workshop Plus" height="85">
+                	<img src="<?/*php echo base_url(); */?>assets/images/logo.png" alt="Mobile Repair Management" height="85">
                 </aside>
             </div>
         </div>
@@ -39,7 +39,7 @@
 				<!--Login section [Start]-->
 				<div class="sc-register" id="login">
                     <aside class="logo text-center">
-                        <img src="<?php echo base_url(); ?>assets/images/logo.png" alt="GSM Workshop Plus" height="85">
+                        <img src="<?php echo base_url(); ?>assets/images/logo.png" alt="Mobile Repair Management" height="85">
                     </aside><br>
 					<div class="col-md-5 col-xs-12 fn mauto">
 						<div class="rbox">
